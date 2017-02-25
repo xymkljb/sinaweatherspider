@@ -1,0 +1,9 @@
+city:郑州
+
+date:02-25	day:晴14°C 	night:晴4	wind:无持续风向 小于3级		pm:87 良
+date:02-26	day:晴16°C 	night:晴6	wind:无持续风向 小于3级		pm:110 轻度污染
+date:02-27	day:多云18°C 	night:晴8	wind:无持续风向 小于3级		pm:122 轻度污染
+date:02-28	day:多云17°C 	night:晴7	wind:微风 小于3级		pm:152 中度污染
+date:03-01	day:晴15°C 	night:晴5	wind:北风 3～4级		pm:78 良
+date:03-02	day:多云16°C 	night:多云6	wind:微风 小于3级		pm:107 轻度污染
+date:03-03	day:晴18°C 	night:少云8	wind:西南偏南风 3级		pm:126 轻度污染
